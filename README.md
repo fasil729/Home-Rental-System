@@ -40,7 +40,7 @@ The system provides the necessary frontend and backend functionality to make it 
 
 ## Screenshots
 
-![Home](screenshots/home.png) ![Home Details](screenshots/homedetail.jpeg) ![Admin Panel](screenshots/admin.jpeg) ![Upload](screenshots/upload.jpeg) ![Sign In](screenshots/signin.jpeg) ![Sign Up](screenshots/signup.jpeg) ![About](screenshots/about.jpeg)
+![Home](Screenshots/home.png) ![Home Details](Screenshots/homedetail.jpeg) ![Admin Panel](Screenshots/admin.jpeg) ![Upload](Screenshots/upload.jpeg) ![Sign In](Screenshots/signin.jpeg) ![Sign Up](Screenshots/signup.jpeg) ![About](Screenshots/about.jpeg)
 
 ## What's Improved from Existing Solutions
 
