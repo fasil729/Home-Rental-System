@@ -13,6 +13,18 @@ The system provides the necessary frontend and backend functionality to make it 
 5. Removal of homes and users from the system based on the number of reports.
 6. "About Us" and "Contact" pages for user feedback.
 
+## Technologies
+
+### Frontend
+- HTML/CSS
+- JavaScript
+- Bootstrap
+
+### Backend
+- Node.js
+- NestJS
+- MySQL
+
 ## Screenshots
 
 ![Home](screenshots/home.png) ![Home Details](screenshots/homedetail.png) ![Admin Panel](screenshots/admin.png) ![Upload](screenshots/upload.png) ![Sign In](screenshots/signin.png) ![Sign Up](screenshots/signup.png) ![About](screenshots/about.png)
@@ -36,7 +48,7 @@ The system provides the necessary frontend and backend functionality to make it 
 2. Clone the repository.
 3. Navigate to the backend directory (`cd backend`) and run `npm install`.
 4. Update the database URL in the environment variables (`.env` file).
-5. Open the frontend home page.
+5. Open the frontend index.html page.
 
 ## Developers
 
