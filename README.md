@@ -19,8 +19,9 @@ The system provides the necessary frontend and backend functionality to make it 
 
 ## What's Improved from Existing Solutions
 
-- Enhanced validity checking of uploaded homes through report functionality and admin approval based on attached licenses.
 - Increased accessibility to approximately 70% of the Addis Ababa population (around 20% in existing solutions) by implementing a system controlled by multiple admins and introducing a report functionality.
+- Enhanced validity checking of uploaded homes through report functionality and admin approval based on attached licenses.
+
 
 ## Future Considerations
 
