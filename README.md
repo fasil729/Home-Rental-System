@@ -1,8 +1,21 @@
 # Home Rental System
 
-## Introduction
-
 Home Rental System was designed to connect lessees and landlords in Addis Ababa using HTML, CSS, JavaScript, and Bootstrap as frontend tools, and Node.js (NestJS) as the backend language and framework.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Technologies](#technologies)
+  - [Frontend](#frontend)
+  - [Backend](#backend)
+- [Screenshots](#screenshots)
+- [What's Improved from Existing Solutions](#whats-improved-from-existing-solutions)
+- [Future Considerations](#future-considerations)
+- [How to Use](#how-to-use)
+- [Developers](#developers)
+- [License](#license)
+
+## Introduction
 
 The system provides the necessary frontend and backend functionality to make it usable for individuals who need to find a home for rent or want to rent their home in Addis Ababa. It aims to create a reliable and secure environment controlled by the admin. The following features are included:
 
