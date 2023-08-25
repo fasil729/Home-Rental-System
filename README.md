@@ -40,7 +40,26 @@ The system provides the necessary frontend and backend functionality to make it 
 
 ## Screenshots
 
-![Home](Screenshots/home.png) ![Home Details](Screenshots/homedetail.jpeg) ![Admin Panel](Screenshots/admin.jpeg) ![Upload](Screenshots/upload.jpeg) ![Sign In](Screenshots/signin.jpeg) ![Sign Up](Screenshots/signup.jpeg) ![About](Screenshots/about.jpeg)
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 33.33%; padding: 5px;">
+    <img src="Screenshots/home.jpeg" alt="Home" style="max-width: 100%;">
+  </div>
+  <div style="flex: 33.33%; padding: 5px;">
+    <img src="Screenshots/admin.jpeg" alt="Admin Panel" style="max-width: 100%;">
+  </div>
+  <div style="flex: 33.33%; padding: 5px;">
+    <img src="Screenshots/upload.jpeg" alt="Upload" style="max-width: 100%;">
+  </div>
+  <div style="flex: 33.33%; padding: 5px;">
+    <img src="Screenshots/signin.jpeg" alt="Sign In" style="max-width: 100%;">
+  </div>
+  <div style="flex: 33.33%; padding: 5px;">
+    <img src="Screenshots/signup.jpeg" alt="Sign Up" style="max-width: 100%;">
+  </div>
+  <div style="flex: 33.33%; padding: 5px;">
+    <img src="Screenshots/about.jpeg" alt="About" style="max-width: 100%;">
+  </div>
+</div>
 
 ## What's Improved from Existing Solutions
 
