@@ -25,7 +25,8 @@ The system provides the necessary frontend and backend functionality to make it 
 
 ## Future Considerations
 
-- Uploading the system to a production environment.
+- Deploy the system to a production environment.
+- Devlop mobile Application
 - Integrating image compression algorithms and image formatting to improve performance and optimize storage usage.
 - Integrating AI to enhance scam control within the system.
 
@@ -51,5 +52,7 @@ The system provides the necessary frontend and backend functionality to make it 
 
 ## License
 
-This project is licensed under the MIT License.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
