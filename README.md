@@ -8,10 +8,10 @@ Home Rental System was designed to connect lessees and landlords in Addis Ababa 
 - [Technologies](#technologies)
   - [Frontend](#frontend)
   - [Backend](#backend)
-- [Screenshots](#screenshots)
 - [What's Improved from Existing Solutions](#whats-improved-from-existing-solutions)
 - [Future Considerations](#future-considerations)
 - [How to Use](#how-to-use)
+- [Screenshots](#screenshots)
 - [Developers](#developers)
 - [License](#license)
 
@@ -38,6 +38,27 @@ The system provides the necessary frontend and backend functionality to make it 
 - NestJS
 - MySQL
 
+## What's Improved from Existing Solutions
+
+- Increased accessibility to approximately 70% of the Addis Ababa population (around 20% in existing solutions) by implementing a system controlled by multiple admins and introducing a report functionality.
+- Enhanced validity checking of uploaded homes through report functionality and admin approval based on attached licenses.
+
+
+## Future Considerations
+
+- Deploy the system to a production environment.
+- Devlop mobile Application
+- Integrating image compression algorithms and image formatting to improve performance and optimize storage usage.
+- Integrating AI to enhance scam control within the system.
+
+## How to Use
+
+1. Install Node.js.
+2. Clone the repository.
+3. Navigate to the backend directory (`cd backend`) and run `npm install`.
+4. Update the database URL in the environment variables (`.env` file).
+5. Open the frontend index.html page.
+
 ## Screenshots
 
 <div style="display: flex; flex-wrap: wrap;">
@@ -61,27 +82,6 @@ The system provides the necessary frontend and backend functionality to make it 
   </div>
 </div>
 
-## What's Improved from Existing Solutions
-
-- Increased accessibility to approximately 70% of the Addis Ababa population (around 20% in existing solutions) by implementing a system controlled by multiple admins and introducing a report functionality.
-- Enhanced validity checking of uploaded homes through report functionality and admin approval based on attached licenses.
-
-
-## Future Considerations
-
-- Deploy the system to a production environment.
-- Devlop mobile Application
-- Integrating image compression algorithms and image formatting to improve performance and optimize storage usage.
-- Integrating AI to enhance scam control within the system.
-
-## How to Use
-
-1. Install Node.js.
-2. Clone the repository.
-3. Navigate to the backend directory (`cd backend`) and run `npm install`.
-4. Update the database URL in the environment variables (`.env` file).
-5. Open the frontend index.html page.
-
 ## Developers
 
 1. Fasika Fikadu (Team Lead and README Writer) - Email: fasikafikadu38@gmail.com
@@ -93,6 +93,8 @@ The system provides the necessary frontend and backend functionality to make it 
 7. Enyew Anberber
 8. Kaleab Tibebu
 9. Natnael Dajene
+
+
 
 ## License
 
